@@ -249,9 +249,6 @@ appointhub/
 
 MIT License - feel free to use for personal or commercial projects
 
-## 👨‍💻 Author
-
-Your Name - [GitHub](https://github.com/YOUR_USERNAME)
 
 ## 🙏 Acknowledgments
 
